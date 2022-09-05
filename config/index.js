@@ -25,7 +25,7 @@ export const config = {
    *   }, 
    * ]
    */
-  USERS: [什么baka
+  USERS: [otG7a6Z7dJ8QicgXALItbHtp6cu8
     {
       // 想要发送的人的名字
       name: "果果",
